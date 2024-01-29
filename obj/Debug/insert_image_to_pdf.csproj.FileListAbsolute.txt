@@ -1,0 +1,71 @@
+C:\Users\SU0067\source\repos\insert_image_to_pdf\bin\Debug\insert_image_to_pdf.exe.config
+C:\Users\SU0067\source\repos\insert_image_to_pdf\bin\Debug\insert_image_to_pdf.exe
+C:\Users\SU0067\source\repos\insert_image_to_pdf\bin\Debug\insert_image_to_pdf.pdb
+C:\Users\SU0067\source\repos\insert_image_to_pdf\bin\Debug\MetroFramework.dll
+C:\Users\SU0067\source\repos\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.csprojAssemblyReference.cache
+C:\Users\SU0067\source\repos\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.frmMain.resources
+C:\Users\SU0067\source\repos\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.Properties.Resources.resources
+C:\Users\SU0067\source\repos\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.csproj.GenerateResource.cache
+C:\Users\SU0067\source\repos\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.csproj.CoreCompileInputs.cache
+C:\Users\SU0067\source\repos\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.csproj.CopyComplete
+C:\Users\SU0067\source\repos\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.exe
+C:\Users\SU0067\source\repos\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.pdb
+C:\Users\SU0067\source\repos\insert_image_to_pdf\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SU0067\source\repos\insert_image_to_pdf\bin\Debug\itextsharp.dll
+C:\Users\SU0067\source\repos\insert_image_to_pdf\bin\Debug\itextsharp.xml
+C:\Users\SU0067\Desktop\insert_image_to_pdf\bin\Debug\insert_image_to_pdf.exe.config
+C:\Users\SU0067\Desktop\insert_image_to_pdf\bin\Debug\insert_image_to_pdf.exe
+C:\Users\SU0067\Desktop\insert_image_to_pdf\bin\Debug\insert_image_to_pdf.pdb
+C:\Users\SU0067\Desktop\insert_image_to_pdf\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SU0067\Desktop\insert_image_to_pdf\bin\Debug\itextsharp.dll
+C:\Users\SU0067\Desktop\insert_image_to_pdf\bin\Debug\MetroFramework.dll
+C:\Users\SU0067\Desktop\insert_image_to_pdf\bin\Debug\itextsharp.xml
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.csprojAssemblyReference.cache
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.frmMain.resources
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.Properties.Resources.resources
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.csproj.GenerateResource.cache
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.csproj.CoreCompileInputs.cache
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.csproj.CopyComplete
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.exe
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.pdb
+C:\Users\SU0067\Desktop\insert_image_to_pdf\bin\Debug\insert_image_to_pdf.exe.manifest
+C:\Users\SU0067\Desktop\insert_image_to_pdf\bin\Debug\insert_image_to_pdf.application
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.exe.manifest
+C:\Users\SU0067\Desktop\insert_image_to_pdf\obj\Debug\insert_image_to_pdf.application
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\bin\Debug\insert_image_to_pdf.exe.config
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\bin\Debug\insert_image_to_pdf.exe.manifest
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\bin\Debug\insert_image_to_pdf.application
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\bin\Debug\insert_image_to_pdf.exe
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\bin\Debug\insert_image_to_pdf.pdb
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\bin\Debug\BouncyCastle.Crypto.dll
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\bin\Debug\itextsharp.dll
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\bin\Debug\MetroFramework.dll
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\bin\Debug\itextsharp.xml
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\obj\Debug\insert_image_to_pdf.frmMain.resources
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\obj\Debug\insert_image_to_pdf.Properties.Resources.resources
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\obj\Debug\insert_image_to_pdf.csproj.GenerateResource.cache
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\obj\Debug\insert_image_to_pdf.csproj.CoreCompileInputs.cache
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\obj\Debug\insert_image_to_pdf.exe.manifest
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\obj\Debug\insert_image_to_pdf.application
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\obj\Debug\insert_image_to_pdf.csproj.CopyComplete
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\obj\Debug\insert_image_to_pdf.exe
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf1\02152023\obj\Debug\insert_image_to_pdf.pdb
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\bin\Debug\insert_image_to_pdf.exe.config
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\bin\Debug\insert_image_to_pdf.exe.manifest
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\bin\Debug\insert_image_to_pdf.application
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\bin\Debug\insert_image_to_pdf.exe
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\bin\Debug\insert_image_to_pdf.pdb
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\bin\Debug\BouncyCastle.Crypto.dll
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\bin\Debug\itextsharp.dll
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\bin\Debug\MetroFramework.dll
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\bin\Debug\itextsharp.xml
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.frmMain.resources
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.Properties.Resources.resources
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.csproj.GenerateResource.cache
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.csproj.CoreCompileInputs.cache
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.exe.manifest
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.application
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.csproj.CopyComplete
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.exe
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.pdb
+D:\Gelo Files\Desktop\RERI PROGRAMS\insert_image_to_pdf\02152023\obj\Debug\insert_image_to_pdf.csprojAssemblyReference.cache
